@@ -1,0 +1,13 @@
+# Windows / Office Temporary files
+~$*
+Thumbs.db
+Desktop.ini
+
+# Mac / Linux system files
+.DS_Store
+*.tmp
+*.log
+
+# Tableau temp files
+*.tfd
+*.hyper.tmp
